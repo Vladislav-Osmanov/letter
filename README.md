@@ -2,7 +2,8 @@
 ##### Практикум по Веб-разработке :Верстка HTML-писем
 
 ## Технологии
-
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
 
 ## О прокте
 1. Работа по курсе Веб-разработке.
